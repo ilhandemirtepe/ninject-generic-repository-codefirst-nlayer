@@ -1,0 +1,15 @@
+F:\MVC\IocNinject\Ioc.Core\bin\Debug\Ioc.Core.dll
+F:\MVC\IocNinject\Ioc.Core\bin\Debug\Ioc.Core.pdb
+F:\MVC\IocNinject\Ioc.Core\obj\Debug\Ioc.Core.csprojResolveAssemblyReference.cache
+F:\MVC\IocNinject\Ioc.Core\obj\Debug\Ioc.Core.dll
+F:\MVC\IocNinject\Ioc.Core\obj\Debug\Ioc.Core.pdb
+E:\MVC\IocNinject\Ioc.Core\bin\Debug\Ioc.Core.dll
+E:\MVC\IocNinject\Ioc.Core\bin\Debug\Ioc.Core.pdb
+E:\MVC\IocNinject\Ioc.Core\obj\Debug\Ioc.Core.csprojResolveAssemblyReference.cache
+E:\MVC\IocNinject\Ioc.Core\obj\Debug\Ioc.Core.dll
+E:\MVC\IocNinject\Ioc.Core\obj\Debug\Ioc.Core.pdb
+C:\Users\ilhandemirtepe\Downloads\CRUD-MVC-EF\Ioc.Core\bin\Debug\Ioc.Core.dll
+C:\Users\ilhandemirtepe\Downloads\CRUD-MVC-EF\Ioc.Core\bin\Debug\Ioc.Core.pdb
+C:\Users\ilhandemirtepe\Downloads\CRUD-MVC-EF\Ioc.Core\obj\Debug\Ioc.Core.csproj.CoreCompileInputs.cache
+C:\Users\ilhandemirtepe\Downloads\CRUD-MVC-EF\Ioc.Core\obj\Debug\Ioc.Core.dll
+C:\Users\ilhandemirtepe\Downloads\CRUD-MVC-EF\Ioc.Core\obj\Debug\Ioc.Core.pdb
